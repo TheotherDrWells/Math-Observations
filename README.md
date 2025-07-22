@@ -26,7 +26,7 @@ People who:
 
 Kevin E. Wells, Ph.D.  
 Structural thinker, diagnostic architect, and the other Dr. Wells.  
-I build the system. I also name it.
+I build systems. I also name them.
 
 [github.com/TheotherDrWells](https://github.com/TheotherDrWells)  
 kevinwellsphd@gmail.com
