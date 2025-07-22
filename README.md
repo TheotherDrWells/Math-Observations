@@ -11,7 +11,6 @@ This is a collection of unorthodox, structure-first mathematical thought pieces.
 - A reframing of P vs NP based on structural collapse  
 - Modular residue patterns in twin primes  
 - Collapse geometry of the natural numbers  
-- A post-measurement diagnostic model that replaces SEM, CDM, and coefficient alpha with deterministic scoring, predictive alignment, and profile-aware diagnostics  
 - Whatever else needs to be said before someone else gets tenure for half the thought
 
 ## Who this is for
