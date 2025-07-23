@@ -1,4 +1,4 @@
-# Mathrageous Observations
+# Math Observations
 
 _I don’t like the math. But the math likes me._
 
