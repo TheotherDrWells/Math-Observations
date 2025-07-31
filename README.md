@@ -6,11 +6,8 @@ This is a collection of unorthodox, structure-first mathematical thought pieces.
 
 ## What’s in here
 
-- A deterministic primality test that passes zero pseudoprimes  
-- A constructive disproof of Navier-Stokes global regularity  
-- A reframing of P vs NP based on structural collapse  
-- Modular residue patterns in twin primes  
-- Collapse geometry of the natural numbers  
+- LSPT1.pdf - A deterministic primality test that passes zero pseudoprimes  
+- Collapse.pdf - Collapse geometry of the natural numbers  
 - Whatever else needs to be said before someone else gets tenure for half the thought
 
 ## Who this is for
