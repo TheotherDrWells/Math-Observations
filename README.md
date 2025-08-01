@@ -6,7 +6,7 @@ This is a collection of unorthodox, structure-first mathematical thought pieces.
 
 ## What’s in here
 
-- LSPT1.pdf - A deterministic primality test that passes zero pseudoprimes  
+- Lspt3.pdf - A deterministic primality test that passes zero pseudoprimes  
 - Collapse.pdf - Collapse geometry of the natural numbers  
 - Whatever else needs to be said before someone else gets tenure for half the thought
 
