@@ -30,3 +30,11 @@ kevinwellsphd@gmail.com
 ---
 
 *Slacking. Always slacking. Until the math fights back.*
+
+
+Update: Originally thought this identity (LSPT) held universally for primes, but later testing showed certain Carmichael numbers (e.g., 561) also satisfy it for small bases. The conjecture as stated is not sufficient for primality testing, but residue-based analysis still shows structural promise.
+
+
+
+
+
